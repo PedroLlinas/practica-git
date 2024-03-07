@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Cambios
+sandbox/
+
 # Log file
 *.log
 
